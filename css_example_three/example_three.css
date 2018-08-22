@@ -1,0 +1,23 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+#one {
+  color: salmon;
+}
+
+.bob {
+  color: sandybrown;
+}
+
+div div {
+  color: seagreen;
+}
+
+div > p {
+  color: sienna;
+}
+
+div + span {
+  background-color: skyblue;
+}
